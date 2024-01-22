@@ -1,0 +1,1 @@
+File CSV sẽ lấy từ trang web https://www.consumerfinance.gov/data-research/consumer-complaints/search/?date_received_max=2023-11-15&date_received_min=2023-05-15&has_narrative=true&page=1&searchField=all&size=25&sort=created_date_desc&tab=List
